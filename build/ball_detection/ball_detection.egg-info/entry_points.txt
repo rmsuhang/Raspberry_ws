@@ -1,0 +1,4 @@
+[console_scripts]
+ball_detection_listener = ball_detection.ball_detection_listener:main
+ball_detection_node = ball_detection.ball_detection_node:main
+

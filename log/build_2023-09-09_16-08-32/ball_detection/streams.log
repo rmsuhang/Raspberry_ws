@@ -1,0 +1,37 @@
+[0.474s] Invoking command in '/home/bubing3/Raspberry_ws/ball_detection': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/bubing3/Raspberry_ws/build/ball_detection/prefix_override:/home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/ball_detection build --build-base /home/bubing3/Raspberry_ws/build/ball_detection/build install --record /home/bubing3/Raspberry_ws/build/ball_detection/install.log --single-version-externally-managed
+[0.686s] running egg_info
+[0.686s] creating ../build/ball_detection/ball_detection.egg-info
+[0.686s] writing ../build/ball_detection/ball_detection.egg-info/PKG-INFO
+[0.686s] writing dependency_links to ../build/ball_detection/ball_detection.egg-info/dependency_links.txt
+[0.686s] writing entry points to ../build/ball_detection/ball_detection.egg-info/entry_points.txt
+[0.687s] writing requirements to ../build/ball_detection/ball_detection.egg-info/requires.txt
+[0.687s] writing top-level names to ../build/ball_detection/ball_detection.egg-info/top_level.txt
+[0.687s] writing manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+[0.688s] reading manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+[0.689s] writing manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+[0.689s] running build
+[0.689s] running build_py
+[0.689s] creating /home/bubing3/Raspberry_ws/build/ball_detection/build
+[0.689s] creating /home/bubing3/Raspberry_ws/build/ball_detection/build/lib
+[0.690s] creating /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection
+[0.690s] copying ball_detection/__init__.py -> /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection
+[0.690s] copying ball_detection/ball_detection_node.py -> /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection
+[0.690s] running install
+[0.690s] running install_lib
+[0.690s] creating /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection
+[0.690s] copying /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection/__init__.py -> /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection
+[0.691s] copying /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection/ball_detection_node.py -> /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection
+[0.691s] byte-compiling /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection/__init__.py to __init__.cpython-310.pyc
+[0.691s] byte-compiling /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection/ball_detection_node.py to ball_detection_node.cpython-310.pyc
+[0.692s] running install_data
+[0.692s] creating /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index
+[0.692s] creating /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index/resource_index
+[0.692s] creating /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index/resource_index/packages
+[0.692s] copying resource/ball_detection -> /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index/resource_index/packages
+[0.692s] copying package.xml -> /home/bubing3/Raspberry_ws/install/ball_detection/share/ball_detection
+[0.693s] running install_egg_info
+[0.694s] Copying ../build/ball_detection/ball_detection.egg-info to /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection-0.0.0-py3.10.egg-info
+[0.694s] running install_scripts
+[0.712s] Installing ball_detection_node script to /home/bubing3/Raspberry_ws/install/ball_detection/lib/ball_detection
+[0.712s] writing list of installed files to '/home/bubing3/Raspberry_ws/build/ball_detection/install.log'
+[0.738s] Invoked command in '/home/bubing3/Raspberry_ws/ball_detection' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/bubing3/Raspberry_ws/build/ball_detection/prefix_override:/home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/ball_detection build --build-base /home/bubing3/Raspberry_ws/build/ball_detection/build install --record /home/bubing3/Raspberry_ws/build/ball_detection/install.log --single-version-externally-managed

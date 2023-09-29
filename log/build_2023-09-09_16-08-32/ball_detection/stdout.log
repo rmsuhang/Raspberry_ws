@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/ball_detection/ball_detection.egg-info
+writing ../build/ball_detection/ball_detection.egg-info/PKG-INFO
+writing dependency_links to ../build/ball_detection/ball_detection.egg-info/dependency_links.txt
+writing entry points to ../build/ball_detection/ball_detection.egg-info/entry_points.txt
+writing requirements to ../build/ball_detection/ball_detection.egg-info/requires.txt
+writing top-level names to ../build/ball_detection/ball_detection.egg-info/top_level.txt
+writing manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+reading manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+writing manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/bubing3/Raspberry_ws/build/ball_detection/build
+creating /home/bubing3/Raspberry_ws/build/ball_detection/build/lib
+creating /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection
+copying ball_detection/__init__.py -> /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection
+copying ball_detection/ball_detection_node.py -> /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection
+running install
+running install_lib
+creating /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection
+copying /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection/__init__.py -> /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection
+copying /home/bubing3/Raspberry_ws/build/ball_detection/build/lib/ball_detection/ball_detection_node.py -> /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection
+byte-compiling /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection/ball_detection_node.py to ball_detection_node.cpython-310.pyc
+running install_data
+creating /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index
+creating /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index/resource_index
+creating /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index/resource_index/packages
+copying resource/ball_detection -> /home/bubing3/Raspberry_ws/install/ball_detection/share/ament_index/resource_index/packages
+copying package.xml -> /home/bubing3/Raspberry_ws/install/ball_detection/share/ball_detection
+running install_egg_info
+Copying ../build/ball_detection/ball_detection.egg-info to /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ball_detection_node script to /home/bubing3/Raspberry_ws/install/ball_detection/lib/ball_detection
+writing list of installed files to '/home/bubing3/Raspberry_ws/build/ball_detection/install.log'

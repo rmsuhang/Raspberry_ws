@@ -1,0 +1,22 @@
+[0.466s] Invoking command in '/home/bubing3/Raspberry_ws/ball_detection': CONDA_PROMPT_MODIFIER=(rc2023) PYTHONPATH=/home/bubing3/Raspberry_ws/build/ball_detection/prefix_override:/home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/ball_detection build --build-base /home/bubing3/Raspberry_ws/build/ball_detection/build install --record /home/bubing3/Raspberry_ws/build/ball_detection/install.log --single-version-externally-managed
+[0.647s] running egg_info
+[0.647s] writing ../build/ball_detection/ball_detection.egg-info/PKG-INFO
+[0.648s] writing dependency_links to ../build/ball_detection/ball_detection.egg-info/dependency_links.txt
+[0.648s] writing entry points to ../build/ball_detection/ball_detection.egg-info/entry_points.txt
+[0.648s] writing requirements to ../build/ball_detection/ball_detection.egg-info/requires.txt
+[0.648s] writing top-level names to ../build/ball_detection/ball_detection.egg-info/top_level.txt
+[0.649s] reading manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+[0.650s] writing manifest file '../build/ball_detection/ball_detection.egg-info/SOURCES.txt'
+[0.650s] running build
+[0.650s] running build_py
+[0.650s] running install
+[0.650s] running install_lib
+[0.651s] running install_data
+[0.651s] running install_egg_info
+[0.653s] removing '/home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection-0.0.0-py3.10.egg-info' (and everything under it)
+[0.653s] Copying ../build/ball_detection/ball_detection.egg-info to /home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages/ball_detection-0.0.0-py3.10.egg-info
+[0.653s] running install_scripts
+[0.667s] Installing ball_detection_listener script to /home/bubing3/Raspberry_ws/install/ball_detection/lib/ball_detection
+[0.667s] Installing ball_detection_node script to /home/bubing3/Raspberry_ws/install/ball_detection/lib/ball_detection
+[0.667s] writing list of installed files to '/home/bubing3/Raspberry_ws/build/ball_detection/install.log'
+[0.686s] Invoked command in '/home/bubing3/Raspberry_ws/ball_detection' returned '0': CONDA_PROMPT_MODIFIER=(rc2023) PYTHONPATH=/home/bubing3/Raspberry_ws/build/ball_detection/prefix_override:/home/bubing3/Raspberry_ws/install/ball_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/ball_detection build --build-base /home/bubing3/Raspberry_ws/build/ball_detection/build install --record /home/bubing3/Raspberry_ws/build/ball_detection/install.log --single-version-externally-managed
